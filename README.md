@@ -42,4 +42,4 @@ Once the user has made their choices, the random password will appear in the box
 
 ## Deployed wepbage
 
-The page has been deployed at: https://scriptmatcha.github.io/password-generator-fixed/
+The page has been deployed at: https://bobascript.github.io/password-generator-fixed/
